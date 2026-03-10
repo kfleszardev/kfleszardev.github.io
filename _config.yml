@@ -2,6 +2,7 @@ remote_theme: chrisbobbe/jekyll-theme-prologue
 title: Kacper Fleszar Garmin Watchfaces
 author: Kacper Fleszar
 email: kacper.fleszar.dev@gmail.com
+avatar: assets/images/avatar.png
 description: A collection of watchfaces for Garmin smartwatches created by Kacper Fleszar.
 collections: [sections]
 
