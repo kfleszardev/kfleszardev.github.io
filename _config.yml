@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
 title: Kacper Fleszar Garmin Watchfaces
 description: A collection of watchfaces for Garmin smartwatches created by Kacper Fleszar.
+
+plugins:
+- jekyll-remote-theme
