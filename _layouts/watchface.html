@@ -1,0 +1,10 @@
+---
+layout: default
+---
+{%- include header.html scrolly_nav=_sections -%}
+<!-- Main -->
+<div id="watchface">
+	{%- if page.content != "" -%}
+		{%- include section.html title=page.title photo=page.banner photo-alt=page.banner-alt auto-header=page.auto-header content=page.content -%}
+	{%- endif -%}	
+</div>

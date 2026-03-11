@@ -1,6 +1,6 @@
 ---
 title: Radioactive Watchface
-layout: page
+layout: watchface
 order: 1
 
 banner: /assets/images/radioactive-connectiq-banner.png
