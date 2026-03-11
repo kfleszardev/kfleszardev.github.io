@@ -15,6 +15,7 @@ collections:
     output: true
     order:
       - radioactive.md
+      - aloalo.md
 
 plugins:
 - jekyll-remote-theme
