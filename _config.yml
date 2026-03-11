@@ -1,17 +1,20 @@
 remote_theme: chrisbobbe/jekyll-theme-prologue
 title: kfleszar.dev
 subtitle: Garmin Watchfaces Collection
+avatar: assets/images/avatar.png
+description: A collection of watchfaces for Garmin smartwatches created by Kacper Fleszar.
+
 author: Kacper Fleszar
 email: kacper.fleszar.dev@gmail.com
 linkedin_url: https://www.linkedin.com/in/kacperfleszar/
-avatar: assets/images/avatar.png
-description: A collection of watchfaces for Garmin smartwatches created by Kacper Fleszar.
+
 collections: 
   sections:
     sort_by: order
   watchfaces:
     output: true
-    sort_by: order
+    order:
+      - radioactive.md
 
 plugins:
 - jekyll-remote-theme
