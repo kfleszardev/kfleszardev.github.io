@@ -5,10 +5,10 @@ icon: none
 ---
 <table>
     
-    {% for post in site.posts %}
+    {% for page in site.pages %}
     <tr>
         <td>
-            <a href="{{ post.url }}"><img src="{{ post.banner }}" alt="{{ post.banner-alt }}"></a>
+            <a href="{{ page.url }}"><img src="{{ page.banner }}" alt="{{ page.banner-alt }}"></a>
         </td>
     </tr>
     {% endfor %}

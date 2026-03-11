@@ -5,7 +5,7 @@ email: kacper.fleszar.dev@gmail.com
 linkedin_url: https://www.linkedin.com/in/kacperfleszar/
 avatar: assets/images/avatar.png
 description: A collection of watchfaces for Garmin smartwatches created by Kacper Fleszar.
-collections: [sections, posts]
+collections: [sections, pages]
 
 plugins:
 - jekyll-remote-theme
