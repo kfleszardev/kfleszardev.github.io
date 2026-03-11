@@ -7,7 +7,8 @@ icon: none
     
     {% for page in site.watchfaces %}
     <tr>
-        {% if page.order | modulo: 2 == 1 %}
+        {% assign mod = forloop.index | modulo:2 %}
+        {% if mod == 1 %}
         <td style="text-align: left;">
         {% else %}
         <td style="text-align: right;">

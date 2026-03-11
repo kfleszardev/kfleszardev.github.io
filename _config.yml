@@ -13,8 +13,6 @@ collections:
     sort_by: order
   watchfaces:
     output: true
-    order:
-      - radioactive.md
 
 plugins:
 - jekyll-remote-theme
