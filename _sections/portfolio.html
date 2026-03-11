@@ -1,0 +1,16 @@
+---
+title: My Watchfaces
+order: 2
+icon: none
+---
+<table>
+    
+    {% for page in site.watchfaces %}
+    <tr>
+        <td>
+            <a href="{{ page.url }}"><img src="{{ page.banner }}" alt="{{ page.banner-alt }}"></a>
+        </td>
+    </tr>
+    {% endfor %}
+
+</table>
