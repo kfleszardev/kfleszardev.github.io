@@ -4,10 +4,14 @@ order: 2
 icon: none
 ---
 <table>
+    
+    {% for post in site.posts %}
     <tr>
         <td>
-            <a href="/_posts/radioactive.html"><img src="/assets/images/radioactive-connectiq-banner.png"
-                    alt="Radioactive watchface banner, hyperlink to the details page" style:="width: 80%; height: auto; align: left;"></a>
+            <a href="{{ post.url }}"><img src="{{ post.banner }}" alt="{{ post.banner-alt }}"></a>
         </td>
     </tr>
+    {% endfor %}
+
 </table>
+
