@@ -7,15 +7,17 @@ order: 2
 
 <h1>My Watchfaces Collection</h1>
 
-{% for page in site.watchfaces %}
-<tr>
-    {% assign mod = forloop.index | modulo:2 %}
-    {% if mod == 1 %}
-    <td style="text-align: left;">
-        {% else %}
-    <td style="text-align: right;">
-        {% endif %}
-        <a href="{{ page.url }}"><img src="{{ page.banner }}" alt="{{ page.banner-alt }}" style="width: 80%;"></a>
-    </td>
-</tr>
-{% endfor %}
+<table>
+    {% for page in site.watchfaces %}
+    <tr>
+        {% assign mod = forloop.index | modulo:2 %}
+        {% if mod == 1 %}
+        <td style="text-align: left;">
+            {% else %}
+        <td style="text-align: right;">
+            {% endif %}
+            <a href="{{ page.url }}"><img src="{{ page.banner }}" alt="{{ page.banner-alt }}" style="width: 80%;"></a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
