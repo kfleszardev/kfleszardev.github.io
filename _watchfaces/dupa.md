@@ -1,10 +1,8 @@
 ---
 title: Dupa Watchface
-layout: page
 order: 2
-output: true
 
-banner: /assets/images/radioactive-connectiq-banner.png
+banner: https://stock.adobe.com/pl/search?k=%22horse+ass%22
 banner-alt: >-
     On the picture you can see the Radioactive Watchface on a Garmin watch.
     The watchface has a black background with a radioactive symbol in the middle. 
@@ -19,5 +17,4 @@ cover-photo-alt: >-
     and in the background there is a picture of a Duga Radar, known as the "Eye of Moscow"
 ---
 
-<h1>Radioactive Watchface</h1>
-<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+# Dupa

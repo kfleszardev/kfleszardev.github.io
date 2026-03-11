@@ -1,8 +1,6 @@
 ---
 title: Radioactive Watchface
-layout: page
 order: 1
-output: true
 
 banner: /assets/images/radioactive-connectiq-banner.png
 banner-alt: >-
@@ -19,5 +17,4 @@ cover-photo-alt: >-
     and in the background there is a picture of a Duga Radar, known as the "Eye of Moscow"
 ---
 
-<h1>Radioactive Watchface</h1>
-<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+# Radioactive
