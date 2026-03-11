@@ -5,16 +5,16 @@ icon: none
 ---
 <table>
     
-    { % for page in site.watchfaces % }
+    {% for page in site.watchfaces %}
     <tr>
-        { % if page.order | modulo: 2 == 1 % }
+        {% if page.order | modulo: 2 == 1 %}
         <td style="text-align: left;">
-        { % else % }
+        {% else %}
         <td style="text-align: right;">
-        { % endif % }
+        {% endif %}
             <a href="{{ page.url }}"><img src="{{ page.banner }}" alt="{{ page.banner-alt }}" style="width: 60%;"></a>
         </td>
     </tr>
-    { % endfor % }
+    {% endfor %}
 
 </table>
