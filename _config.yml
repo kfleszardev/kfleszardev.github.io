@@ -10,6 +10,7 @@ collections:
   sections:
     sort_by: order
   watchfaces:
+    output: true
     sort_by: order
 
 plugins:

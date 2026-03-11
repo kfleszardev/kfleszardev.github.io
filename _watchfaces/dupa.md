@@ -1,8 +1,9 @@
 ---
 title: Dupa Watchface
+layout: page
 order: 2
 
-banner: https://stock.adobe.com/pl/search?k=%22horse+ass%22
+banner: /assets/images/original_photo.jpg
 banner-alt: >-
     On the picture you can see the Radioactive Watchface on a Garmin watch.
     The watchface has a black background with a radioactive symbol in the middle. 
