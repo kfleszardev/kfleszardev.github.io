@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Kacper Fleszar Garmin Watchfaces
+title: Home Page
 icon: fa-home
 order: 1
 ---
