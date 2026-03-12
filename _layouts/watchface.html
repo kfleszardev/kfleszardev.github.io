@@ -4,5 +4,9 @@ layout: default
 {%- include header.html -%}
 
 <div id="watchface">
-	{%- include section.html title=page.title photo=page.cover photo-alt=page.banner-alt auto-header=page.auto-header content=page.content -%}	
+	<section id="cover" class="shade-one cover dark">
+		<div class="container">
+			<img src="{{- page.cover }}" alt="{{ page.banner-alt }}" class="back">
+		</div>
+	</section>
 </div>
