@@ -3,7 +3,7 @@ title: Radioactive Watch Face
 layout: page
 order: 1
 ---
-![Banner][/assets/images/radioactive-cover.png]
+![Banner](/assets/images/radioactive-cover.png)
 
 ![Version](https://img.shields.io/badge/Version-0.0.2--beta-green?labelColor=gray&style=flat)
 ![Supported ConnectIQ API version](https://img.shields.io/badge/Supported%20ConnectIQ%20API%20version-%3E=3.3.0-green?labelColor=gray&style=flat)
