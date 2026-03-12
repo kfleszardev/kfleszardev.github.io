@@ -16,3 +16,5 @@ collections:
 
 plugins:
 - jekyll-remote-theme
+
+markdown: kramdown

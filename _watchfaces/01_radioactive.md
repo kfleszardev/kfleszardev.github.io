@@ -1,5 +1,4 @@
 ---
-title: Radioactive Watchface
 layout: watchface
 order: 1
 
@@ -10,24 +9,22 @@ banner-alt: >-
     On the right is the watchface, it has a black background with a radioactive symbol in the middle. 
     In the background there is a picture of a Duga Radar, known as the "Eye of Moscow"
 ---
+## Radioactive Watch Face
 
-# Radioactive Watch Face
-
-Привет Stalker! Did you always wanted to explore the zone? With this unique watchface, you can enter your next journey with style. This watchface offers minimalistic data display, with customizable data fields and goal tracker inside the radioactivity symbol. The middle circle fills until you reach your goal and you can customize it as well!
-
-## How to customize?
-You can choose different activity data to display on your watchface in your ConnectIQ app or directly on your Garmin device. You can display no data at all. If you choose not to track any goal, the middle circle will be fully filled.
-
-## Dark and light mode
-> Note: Changing between dark and light mode is available only on supported watches with monochromatic display.
-
-![Dark Mode](resources/dark-mode.png)
-![Light Mode](resources/light-mode.png)
-
-# Technical Data
 ![Version](https://img.shields.io/badge/Version-0.0.2--beta-green?labelColor=gray&style=flat)
 ![Supported ConnectIQ API version](https://img.shields.io/badge/Supported%20ConnectIQ%20API%20version-%3E=3.3.0-green?labelColor=gray&style=flat)
 ![Last release SDK version](https://img.shields.io/badge/Last%20release%20SDK%20version-8.4.1-green?labelColor=gray&style=flat)
+
+Привет Stalker! Did you always wanted to explore the zone? With this unique watchface, you can enter your next journey with style. This watchface offers minimalistic data display, with customizable data fields and goal tracker inside the radioactivity symbol. The middle circle fills until you reach your goal and you can customize it as well!
+
+### How to customize?
+You can choose different activity data to display on your watchface in your ConnectIQ app or directly on your Garmin device. You can display no data at all. If you choose not to track any goal, the middle circle will be fully filled.
+
+### Dark and light mode
+> Note: Changing between dark and light mode is available only on supported watches with monochromatic display.
+
+![Dark Mode](/assets/images/radioactive/dark-mode.png)
+![Light Mode](/assets/images/radioactive/light-mode.png)
 
 ## Supported Devices
 ### Legend
