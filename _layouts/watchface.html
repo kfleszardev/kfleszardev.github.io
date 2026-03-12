@@ -3,11 +3,14 @@ layout: default
 ---
 {%- include header.html -%}
 
+<!-- Content -->
 <div id="watchface">
-	<section id="cover" class="shade-one cover dark">
+	<section id="cover" class="cover">
 		<div class="container">
 			<img src="{{- page.cover }}" alt="{{ page.banner-alt }}" class="back">
 		</div>
 	</section>
-	{{- content -}}
+	<section id="content" class="shade-two">
+		{{- content -}}
+	</section>
 </div>
