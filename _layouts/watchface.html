@@ -5,9 +5,7 @@ layout: default
 <!-- Watchface -->
 <div id="watchface">
 	<div class="container">
-		<header>
-			<img src="{{- include.cover | relative_url -}}" alt="{{- include.banner-alt -}}" class="back">
-		</header>
+		<img src="{{- include.cover | relative_url -}}" alt="{{- include.banner-alt -}}" style="width: 80%; margin-bottom: 20px;">
 		{{- content -}}
 	</div>
 </div>
