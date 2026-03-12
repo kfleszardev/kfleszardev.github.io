@@ -5,7 +5,7 @@ order: 1
 hide: true
 banner: /assets/images/radioactive/banner.png
 ---
-![Page banner, contains insctiption saying Radioactive, watchface example. The background is the Duga Radar](/assets/images/radioactive/banner.png)
+![Page banner, contains insctiption saying Radioactive, watchface example. The background is the Duga Radar](/assets/images/radioactive/banner.png | width=80)
 
 ![Version](https://img.shields.io/badge/Version-0.0.2--beta-green?labelColor=gray&style=flat)
 ![Supported ConnectIQ API version](https://img.shields.io/badge/Supported%20ConnectIQ%20API%20version-%3E=3.3.0-green?labelColor=gray&style=flat)
@@ -24,9 +24,9 @@ You can choose different activity data to display on your watchface in your Conn
 
 ## Supported Devices
 ### Legend
-- :white_check_mark: Supported
-- :x: Won't be supported
-- :wrench: Work in progress
+- [x] Supported
+- ~ Won't be supported ~
+- [ ] Work in progress
 
 You can find compatible devices with their API level [here](https://developer.garmin.com/connect-iq/compatible-devices/)
 
@@ -34,7 +34,7 @@ You can find compatible devices with their API level [here](https://developer.ga
 
 ### Descent
 - [x] Descent G1 / G1 Solar
-- [-] Descent Mk1
+- ~ Descent Mk1 ~
 - [ ] Descent Mk2 / Mk2i
 - :wrench: Descent Mk2 S
 - :wrench: Descent Mk3 / Mk3i 43mm
