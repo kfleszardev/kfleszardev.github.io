@@ -2,12 +2,7 @@
 layout: default
 ---
 {%- include header.html -%}
-<!-- Watchface -->
+
 <div id="watchface">
-	<div class="container">
-		<header>
-			<img src="{{- include.cover | relative_url -}}" alt="{{- include.banner-alt -}}" class="back">
-		</header>
-		{{- content -}}
-	</div>
+	{%- include section.html title=page.title photo=page.cover photo-alt=page.banner-alt auto-header=page.auto-header content=page.content -%}	
 </div>
