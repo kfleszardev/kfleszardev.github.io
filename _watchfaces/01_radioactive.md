@@ -1,5 +1,5 @@
 ---
-title:
+title: Radioactive Watch Face
 layout: watchface
 order: 1
 
@@ -10,8 +10,6 @@ banner-alt: >-
     On the right is the watchface, it has a black background with a radioactive symbol in the middle. 
     In the background there is a picture of a Duga Radar, known as the "Eye of Moscow"
 ---
-## Radioactive Watch Face
-
 ![Version](https://img.shields.io/badge/Version-0.0.2--beta-green?labelColor=gray&style=flat)
 ![Supported ConnectIQ API version](https://img.shields.io/badge/Supported%20ConnectIQ%20API%20version-%3E=3.3.0-green?labelColor=gray&style=flat)
 ![Last release SDK version](https://img.shields.io/badge/Last%20release%20SDK%20version-8.4.1-green?labelColor=gray&style=flat)
@@ -38,9 +36,9 @@ You can find compatible devices with their API level [here](https://developer.ga
 ### Approach
 
 ### Descent
-- :white_check_mark: Descent G1 / G1 Solar
-- :x: Descent Mk1
-- :wrench: Descent Mk2 / Mk2i
+- [x] Descent G1 / G1 Solar
+- [-] Descent Mk1
+- [ ] Descent Mk2 / Mk2i
 - :wrench: Descent Mk2 S
 - :wrench: Descent Mk3 / Mk3i 43mm
 - :wrench: Descent Mk3i 51mm
