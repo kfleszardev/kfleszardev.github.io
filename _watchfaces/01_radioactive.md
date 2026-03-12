@@ -1,6 +1,5 @@
 ---
 title: Radioactive Watch Face
-layout: watchface
 order: 1
 
 banner: /assets/images/radioactive-connectiq-banner.png
@@ -10,6 +9,8 @@ banner-alt: >-
     On the right is the watchface, it has a black background with a radioactive symbol in the middle. 
     In the background there is a picture of a Duga Radar, known as the Eye of Moscow
 ---
+![Banner](/assets/images/radioactive-cover.png)
+
 ![Version](https://img.shields.io/badge/Version-0.0.2--beta-green?labelColor=gray&style=flat)
 ![Supported ConnectIQ API version](https://img.shields.io/badge/Supported%20ConnectIQ%20API%20version-%3E=3.3.0-green?labelColor=gray&style=flat)
 ![Last release SDK version](https://img.shields.io/badge/Last%20release%20SDK%20version-8.4.1-green?labelColor=gray&style=flat)
