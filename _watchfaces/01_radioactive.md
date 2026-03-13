@@ -10,7 +10,9 @@ banner-alt: Page banner, contains insctiption saying Radioactive, watchface exam
 ![Supported ConnectIQ API version](https://img.shields.io/badge/Supported%20ConnectIQ%20API%20version-%3E=3.3.0-green?labelColor=gray&style=flat)
 ![Last release SDK version](https://img.shields.io/badge/Last%20release%20SDK%20version-8.4.1-green?labelColor=gray&style=flat)
 
-**Привет Stalker!** Have you ever felt the call of the Zone? Step into the unknown with this unique watch face and begin your next journey in true stalker style. Designed with a clean, minimalistic display, it keeps only the most essential data within sight. Customize the data fields to fit your mission, while the goal tracker glows within the iconic radioactivity symbol. As you move closer to your objective, the center circle fills with progress—fully customizable, just like your path through the Zone.
+**Привет Stalker!** Have you ever felt the call of the Zone? Step into the unknown with this unique watch face and begin your next journey in true stalker style. 
+
+Designed with a clean, minimalistic display, it keeps only the most essential data within sight. Customize the data fields to fit your mission, while the goal tracker glows within the iconic radioactivity symbol. As you move closer to your objective, the center circle fills with progress—fully customizable, just like your path through the Zone.
 
 ## Customization
 You can choose different activity data to display on your watchface in your ConnectIQ app or directly on your Garmin device. You can display no data at all. If you choose not to track any goal, the middle circle will be fully filled.
@@ -19,15 +21,13 @@ You can choose different activity data to display on your watchface in your Conn
 
 ### Dark and light mode
 > Note: Changing between dark and light mode is available only on supported watches with monochromatic display.
-
 ![Dark Mode](/assets/images/radioactive/dark-mode.png)
 ![Light Mode](/assets/images/radioactive/light-mode.png)
 
 ## Supported Devices
-### Legend
-
 You can find your device in [this list](https://developer.garmin.com/connect-iq/compatible-devices/) to check if your device can get support.
 
+### Legend
 - [x] Supported
 - [ ] Work in progress
 
@@ -54,8 +54,10 @@ You can find your device in [this list](https://developer.garmin.com/connect-iq/
 
 ## ConnectIQ Store
 > Note: This is beta version link, available only for developer
+[![ConnectIQ Banner](/assets/images/connect-iq-badge.png)](https://apps-developer.garmin.com/pl-PL/apps/247df860-c6df-4ec6-8b4b-8f5c587fafd9)
 
 [![ConnectIQ Banner](/assets/images/connect-iq-badge.png)](https://apps.garmin.com/apps/247df860-c6df-4ec6-8b4b-8f5c587fafd9)
+
 
 ## Resources
 * [Radioactive](https://icons8.com/icon/9024/radioactive) icon by [Icons8](https://icons8.com)
@@ -71,19 +73,19 @@ You can find your device in [this list](https://developer.garmin.com/connect-iq/
 * [Polish flag](https://icons8.com/icon/17964/poland) by [Icons8](https://icons8.com)
 * [UK flag](https://icons8.com/icon/15534/great-britain) by [Icons8](https://icons8.com)
 
-# Changelog
+## Changelog
 ```diff
 + 1.0.0 - Watchface Release
 ```
 
-# Planned developement 
-- :wrench: Add actual Garmin watchface photos
-- :wrench: Add changelog
-- :wrench: Link to the ConnectIQ app after the release
-- :wrench: Description what could be done with this watchface
-- :wrench: Add supported devices and API versions
-- :wrench: Support US date format (11 Jan -> Jan 11)
-- :wrench: Support distance as feets or miles
+## Planned developement 
+- Add actual Garmin watchface photos
+- Add changelog to this page
+- Link to the ConnectIQ app after the release
+- Description what could be done with this watchface on this page
+- Add supported devices and API versions
+- Support US date format (11 Jan -> Jan 11)
+- Support distance as feets or miles
 
 ### Contact
 If you like to look into the source code, report a bug or have a question, don't hesitate to contact me: [kacper.fleszar.dev@gmail.com](mailto:kacper.fleszar.dev@gmail.com)
