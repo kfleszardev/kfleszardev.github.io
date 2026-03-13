@@ -1,11 +1,10 @@
 ---
 title: Polinesian Flower of Life Watchface
-layout: page
+layout: watchface
 order: 2
-
-banner: /assets/images/aloalo-connectiq-banner.png
-banner-alt: >-
-    Banner with the hawaiian hibiscus flower, title says "Aloalo" and subtitle "Polinesian Flower of Life". The image of the watchface is present on the right side of the banner.
+hide: true
+banner: /assets/images/aloalo/banner.png
+banner-alt: Photo of hibiscus flower, with inscription in Hawaiian Aloalo.
 ---
 
-# Aloalo
+# Work in Progress

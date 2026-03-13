@@ -1,10 +1,14 @@
 ---
 layout: default
 ---
-{%- include header.html scrolly_nav=_sections -%}
-<!-- Watchface -->
-<div id="watchface">
-	{%- if page.content != "" -%}
-		{%- include section.html title=page.title photo=page.cover photo-alt=page.banner-alt auto-header=page.auto-header content=page.content -%}
-	{%- endif -%}	
+{%- include header.html -%}
+
+<!-- Main -->
+<div id="main">
+	<article class="shade-two">
+		<div class="container">
+			<img src="{{- page.banner -}}" alt="{{ page.banner-alt }}" style="width:100%; height:auto;">
+			{{- content -}}
+		</div>
+	</article>
 </div>
