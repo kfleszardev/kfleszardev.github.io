@@ -10,10 +10,12 @@ banner-alt: Page banner, contains insctiption saying Radioactive, watchface exam
 ![Supported ConnectIQ API version](https://img.shields.io/badge/Supported%20ConnectIQ%20API%20version-%3E=3.3.0-green?labelColor=gray&style=flat)
 ![Last release SDK version](https://img.shields.io/badge/Last%20release%20SDK%20version-8.4.1-green?labelColor=gray&style=flat)
 
-Привет Stalker! Did you always wanted to explore the zone? With this unique watchface, you can enter your next journey with style. This watchface offers minimalistic data display, with customizable data fields and goal tracker inside the radioactivity symbol. The middle circle fills until you reach your goal and you can customize it as well!
+**Привет Stalker!** Have you ever felt the call of the Zone? Step into the unknown with this unique watch face and begin your next journey in true stalker style. Designed with a clean, minimalistic display, it keeps only the most essential data within sight. Customize the data fields to fit your mission, while the goal tracker glows within the iconic radioactivity symbol. As you move closer to your objective, the center circle fills with progress—fully customizable, just like your path through the Zone.
 
-### How to customize?
+## Customization
 You can choose different activity data to display on your watchface in your ConnectIQ app or directly on your Garmin device. You can display no data at all. If you choose not to track any goal, the middle circle will be fully filled.
+
+**Section in progress**
 
 ### Dark and light mode
 > Note: Changing between dark and light mode is available only on supported watches with monochromatic display.
@@ -23,47 +25,37 @@ You can choose different activity data to display on your watchface in your Conn
 
 ## Supported Devices
 ### Legend
-- [x] Supported
-- ~~Won't be supported~~
-- [ ] Work in progress
 
-You can find compatible devices with their API level [here](https://developer.garmin.com/connect-iq/compatible-devices/)
+You can find your device in [this list](https://developer.garmin.com/connect-iq/compatible-devices/) to check if your device can get support.
+
+- [x] Supported
+- [ ] Work in progress
 
 ### Approach
 
 ### Descent
 - [x] Descent G1 / G1 Solar
-- ~~Descent Mk1~~
 - [ ] Descent Mk2 / Mk2i
-- :wrench: Descent Mk2 S
-- :wrench: Descent Mk3 / Mk3i 43mm
-- :wrench: Descent Mk3i 51mm
+- [ ] Descent Mk2 S
+- [ ] Descent Mk3 / Mk3i 43mm
+- [ ] Descent Mk3i 51mm
 
 ### Instinct
-- :white_check_mark: Instinct 2 / Solar / Dual Power / dēzl Edition
-- :x: Instinct 2S / Solar / Dual Power
-- :white_check_mark: Instinct 2X Solar
-- :x: Instinct Crossover
+- [x] Instinct 2 / Solar / Dual Power / dēzl Edition
+- [x] Instinct 2X Solar
 
 ### Venu
-- :x: Venu
-- :x: Venu 2
-- :x: Venu 2 Plus
-- :x: Venu 2S
-- :wrench: Venu 3
-- :wrench: Venu 3S
-- :x: Venu Mercedes-Benz Collection
-- :x: Venu Sq
-- :x: Venu Sq2
-- :x: Venu Sq Music 
-- :x: Venu Sq Music Edition
+- [ ] Venu 3
+- [ ] Venu 3S
 
 ## Supported Languages
-- English
-- Polish
+![UK flag](/assets/icons/icons8-united-kingdom-96.png)
+![Polish flag](/assets/icons/icons8-poland-96.png)
 
 ## ConnectIQ Store
-* [Beta Version](https://apps.garmin.com/apps/247df860-c6df-4ec6-8b4b-8f5c587fafd9)
+> Note: This is beta version link, available only for developer
+
+[![ConnectIQ Banner](/assets/images/connect-iq-badge.png)](https://apps.garmin.com/apps/247df860-c6df-4ec6-8b4b-8f5c587fafd9)
 
 ## Resources
 * [Radioactive](https://icons8.com/icon/9024/radioactive) icon by [Icons8](https://icons8.com)
@@ -76,6 +68,8 @@ You can find compatible devices with their API level [here](https://developer.ga
 * [Path](https://icons8.com/icon/uhX1VI4OLRLx/path) icon by [Icons8](https://icons8.com)
 * [Mountain](https://icons8.com/icon/49261/mountain) icon by [Icons8](https://icons8.com)
 * [Chernobyl Photo](https://unsplash.com/photos/yellow-and-black-stop-sign-JjItilamR4k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) by [Romain Chollet](https://unsplash.com/@romainchllet?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) from Unsplash
+* [Polish flag](https://icons8.com/icon/17964/poland) by [Icons8](https://icons8.com)
+* [UK flag](https://icons8.com/icon/15534/great-britain) by [Icons8](https://icons8.com)
 
 # Changelog
 ```diff
