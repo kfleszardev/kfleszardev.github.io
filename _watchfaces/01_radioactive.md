@@ -1,6 +1,6 @@
 ---
 title: Radioactive Watch Face
-layout: page
+layout: watchface
 order: 1
 hide: true
 banner: /assets/images/radioactive/banner.png
@@ -8,8 +8,6 @@ banner: /assets/images/radioactive/banner.png
 ![Version](https://img.shields.io/badge/Version-0.0.2--beta-green?labelColor=gray&style=flat)
 ![Supported ConnectIQ API version](https://img.shields.io/badge/Supported%20ConnectIQ%20API%20version-%3E=3.3.0-green?labelColor=gray&style=flat)
 ![Last release SDK version](https://img.shields.io/badge/Last%20release%20SDK%20version-8.4.1-green?labelColor=gray&style=flat)
-
-TODO edit page layout to have banner on top
 
 <img src="/assets/images/radioactive/banner.png" alt="Page banner, contains insctiption saying Radioactive, watchface example. The background is the Duga Radar" style="width:100%; height:auto;">
 

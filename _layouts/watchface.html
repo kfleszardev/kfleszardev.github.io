@@ -3,14 +3,20 @@ layout: default
 ---
 {%- include header.html -%}
 
-<!-- Content -->
-<div id="watchface">
-	<section id="cover" class="cover">
+<!-- Main -->
+<div id="main">
+	<article class="shade-two">
+		<div class="container">
+			<img src="/assets/images/radioactive/banner.png" alt="Page banner, contains insctiption saying Radioactive, watchface example. The background is the Duga Radar" style="width:100%; height:auto;">
+			{{- content -}}
+		</div>
+	</article>
+	<!-- <section id="cover" class="cover">
 		<div class="container">
 			<img src="{{- page.cover }}" alt="{{ page.banner-alt }}" class="back">
 		</div>
 	</section>
 	<section id="content" class="shade-two">
-		{{- content -}}
-	</section>
+		
+	</section> -->
 </div>

@@ -1,6 +1,6 @@
 ---
 title: Polinesian Flower of Life Watchface
-layout: page
+layout: watchface
 order: 2
 hide: true
 banner: /assets/images/aloalo/banner.png
