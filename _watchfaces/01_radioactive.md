@@ -9,11 +9,9 @@ banner: /assets/images/radioactive/banner.png
 ![Supported ConnectIQ API version](https://img.shields.io/badge/Supported%20ConnectIQ%20API%20version-%3E=3.3.0-green?labelColor=gray&style=flat)
 ![Last release SDK version](https://img.shields.io/badge/Last%20release%20SDK%20version-8.4.1-green?labelColor=gray&style=flat)
 
-<img src="/assets/images/radioactive/banner.png" alt="Page banner, contains insctiption saying Radioactive, watchface example. The background is the Duga Radar" style="width:80%; height:auto;">
+TODO edit page layout to have banner on top
 
-![Page banner, contains insctiption saying Radioactive, watchface example. The background is the Duga Radar](/assets/images/radioactive/banner.png)
-
-
+<img src="/assets/images/radioactive/banner.png" alt="Page banner, contains insctiption saying Radioactive, watchface example. The background is the Duga Radar" style="width:100%; height:auto;">
 
 Привет Stalker! Did you always wanted to explore the zone? With this unique watchface, you can enter your next journey with style. This watchface offers minimalistic data display, with customizable data fields and goal tracker inside the radioactivity symbol. The middle circle fills until you reach your goal and you can customize it as well!
 
