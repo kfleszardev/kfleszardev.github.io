@@ -2,7 +2,6 @@
 title: Radioactive Watch Face
 layout: page
 order: 1
-hide: true
 ---
 ![Banner](/assets/images/radioactive-cover.png)
 
